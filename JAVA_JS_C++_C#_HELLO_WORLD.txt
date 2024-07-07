@@ -1,0 +1,62 @@
+										JAVA
+public class india{
+    public static void main(String args[]){
+    System.out.println("jai hind1!".replaceAll("\\s+","\n"));
+        System.out.print("jai hind2 !");
+        System.out.print("jai hind3 !\n");
+        System.out.println("jai hind4 !");
+    }
+}
+
+jai
+hind1!
+jai hind2 !jai hind3 !
+jai hind4 !
+
+=== Code Execution Successful ===
+
+______________________________________________________________________________________________________________________________________________________________________________________________
+
+										 JS
+console.log("hello_world");
+alert("hello_world");
+document.write("Hello_world");
+
+hello_world
+hello_world
+Hello_world
+
+____________________________________________________________________________________________________________________________________________________________________________________________
+
+										 C++
+
+#include<iostream>
+using namespace std;
+int main(){
+    cout<<"hello world\n";
+    cout<<"hello world again";
+    return 0;
+}
+
+hello world
+hello world again
+
+=== Code Execution Successful ===
+
+___________________________________________________________________________________________________________________________________________________________________________________________
+
+										  C#
+
+using System;
+public class hw{
+    public static void Main(string[]args){
+        Console.WriteLine("hello world");
+    }
+    
+}
+
+hello world
+
+=== Code Execution Successful ===
+
+____________________________________________________________________________________________________________________________________________________________________________________________
