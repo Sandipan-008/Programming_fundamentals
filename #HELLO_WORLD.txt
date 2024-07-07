@@ -1,17 +1,18 @@
 										JAVA
-public class india{
+public class HELLO_WORLD{
     public static void main(String args[]){
-    System.out.println("jai hind1!".replaceAll("\\s+","\n"));
-        System.out.print("jai hind2 !");
-        System.out.print("jai hind3 !\n");
-        System.out.println("jai hind4 !");
+    System.out.println("hello world1!".replaceAll("\\s+","\n"));
+        System.out.print("hello world2!");
+        System.out.print("hello world3!\n");
+        System.out.println("hello world4!");
     }
 }
 
-jai
-hind1!
-jai hind2 !jai hind3 !
-jai hind4 !
+hello
+world1!
+hello world2!hello world3 !
+hello world4 !
+
 
 === Code Execution Successful ===
 
