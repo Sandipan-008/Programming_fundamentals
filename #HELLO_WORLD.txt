@@ -1,4 +1,4 @@
-                                                                             C
+                                                                              C
 
 #include<stdio.h>
 int main(){
@@ -66,19 +66,13 @@ hello world
 hello world again
 
 === Code Execution Successful ===
+
 _________________________________________________________________________________________________________________________________________________________________________
 
-										  C#
+										Ruby
+puts "Hello World!"
 
-using System;
-public class hw{
-    public static void Main(string[]args){
-        Console.WriteLine("hello world");
-    }
-    
-}
-
-hello world
+Hello World!
 
 === Code Execution Successful ===
 
